@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body{
+	font-family: 'Noto Sans KR', sans-serif;
+}
+/* 맨 위로 올라가는 버튼 */
+a.top {  
+            position: fixed;
+            left: 50%;
+            bottom: 50px;
+            display: none;
+        }

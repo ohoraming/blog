@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://devminji.herokuapp.com/sitemap.xml
